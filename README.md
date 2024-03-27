@@ -1,7 +1,7 @@
 # Dapp-Back
 
 ### Overview
-I built the backend for my decentralized application (Dapp) on the Ethereum blockchain. The backend consists of smart contracts written in Solidity, which handle the business logic and data interactions of my application. Leveraging the Truffle Framework, I've developed and tested these smart contracts to ensure their correctness. With Ganache, I've set up a local blockchain environment for testing and development purposes. Metamask integration enables seamless interaction with the Ethereum blockchain, allowing users to deploy contracts and execute transactions securely.
+Built the backend for the decentralized application (Dapp) on the Ethereum blockchain. The backend consists of smart contracts written in Solidity, which handle the business logic and data interactions of my application. Leveraging the Truffle Framework, I've developed and tested these smart contracts to ensure their correctness. With Ganache, I've set up a local blockchain environment for testing and development purposes. Metamask integration enables seamless interaction with the Ethereum blockchain, allowing users to deploy contracts and execute transactions securely.
 
 ### Dependencies
 To run the backend, you'll need the following dependencies:
